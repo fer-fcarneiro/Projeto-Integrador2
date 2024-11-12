@@ -1,0 +1,23 @@
+.voltar{
+    color: white;
+    padding-left: 40%;
+}
+h1{
+    padding-left: 4%;
+}
+h4{
+    padding-left: 4%;
+}
+h5{
+    padding-left: 4%;
+}
+form{
+    padding-left: 4%;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: slategray;
+}

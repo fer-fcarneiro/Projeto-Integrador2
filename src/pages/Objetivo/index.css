@@ -1,0 +1,26 @@
+.ganhar{
+    color: white;
+    padding-left: 3%;
+}
+.emagrecer{
+    color: white;
+    padding-left: 3%;
+}
+.manter{
+    color: white;
+    padding-left: 3%;
+}
+.voltar{
+    color: white;
+    padding-left: 43%;
+}
+h1{
+    padding-left: 18%;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: slategray;
+}

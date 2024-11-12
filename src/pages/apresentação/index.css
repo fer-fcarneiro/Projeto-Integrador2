@@ -1,0 +1,41 @@
+body{
+    color: white;
+    background: black;
+}
+.objetivo{
+    color: white;
+    padding-left: 5%;
+}
+.progsemanal{
+    color: white;
+    padding-left: 5%;
+}
+.progconcluida{
+    color: white;
+    padding-left: 5%;
+}
+.notifica{
+    color: white;
+    padding-left: 5%;
+}
+.avalia{
+    color: white;
+    padding-left: 5%;
+}
+.sair{
+    color: white;
+    padding-left: 47%;
+}
+h1{
+    padding-left: 28%;
+}
+h5{
+    padding-left: 10%;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: slategray;
+}
